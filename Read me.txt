@@ -1,0 +1,4 @@
+I do not use datebase or other external External library,so you don't need to implenment 
+something more.
+When use the application, you can follow the guidance of the help.I think this application is
+simple enough to use it smoothly.
